@@ -36,7 +36,7 @@ Learning from  https://www.yottau.com.tw/course/classroom/705#chapters
 
 8: 改歡迎訊息: Greeting messages
 
-     回應訊息: Auto-reply messages
+   回應訊息: Auto-reply messages
 
 安裝相關開發套件
 
