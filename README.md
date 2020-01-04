@@ -4,9 +4,13 @@ Learning from  https://www.yottau.com.tw/course/classroom/705#chapters
 
 簡述:
 1: 建立LINE開發者帳號
+
 2: 建立網頁伺服器
+
 3: python 程式
+
 4: LINE 開發者工具 : LINE SDK
+
 5: Flask : 連接程式和伺服器
 
 建立LINE開發者帳號:
