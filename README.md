@@ -81,4 +81,4 @@ Learning from  https://www.yottau.com.tw/course/classroom/705#chapters
    **記得每次運作都要存檔並重新執行
 
 
-可以開始用Pycharm撰寫程式囉~耶嘿~耶嘿~
+可以開始用Pycharm撰寫程式囉~
