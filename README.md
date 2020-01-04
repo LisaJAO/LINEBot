@@ -70,15 +70,15 @@ Learning from  https://www.yottau.com.tw/course/classroom/705#chapters
 
 9: 然後在到LINE後台, 重新Verify. 若出現成功. 表示後台已經和程式碼對接上啦~  ^ ^耶嘿~~
 
-設定LINE
+設定LINE:
 
 1: Greeting message: disabled -> 不會對使用者的話作回應
 
    Auto-response: disabled -> 不會對使用者的話作回應
-
+   
    Webhooks: Enabled -> 會對使用者的話做處理
    
    **記得每次運作都要存檔並重新執行
 
 
-Pycharm撰寫程式
+可以開始用Pycharm撰寫程式囉~耶嘿~耶嘿~
