@@ -62,7 +62,18 @@ Learning from  https://www.yottau.com.tw/course/classroom/705#chapters
 
 5: ngrok: https://dashboard.ngrok.com/get-started  產生一個網址給知道這網址的人可以進入這本機的檔案 : 下載檔案
 
-6: cmd 或在 ngrok主程式黨內打 ngrok http 5000 ->將電腦的5000放在網際網路->取得網址(https://產生的網址.ngrok.io/callback) 放在LINE後台的Webhook URL 且Use webhook打開
+   或者使用heroku: https://dashboard.heroku.com/apps/linebot-lisajao/deploy/heroku-git
+
+6: 方法一:  
+
+   cmd 或在 ngrok主程式黨內打 ngrok http 5000 ->將電腦的5000放在網際網路->取得網址(https://產生的網址.ngrok.io/callback) 放在LINE後台的Webhook URL 且Use webhook打開
+   
+   方法二:
+   
+   Heroku:
+   
+   安裝 Heroku CLI、Git
+   
 
 7: 修改: return "OK" -> status code 200  
 
