@@ -61,6 +61,7 @@ Learning from  https://www.yottau.com.tw/course/classroom/705#chapters
 4: Run -> Running on http://127.0.0.1:5000/ ->表示在本機的第5000運作
 
 5: ngrok: https://dashboard.ngrok.com/get-started  產生一個網址給知道這網址的人可以進入這本機的檔案 : 下載檔案
+   注意: 重新開啟PyCharm/Line 後, 原先ngrok所配發的位址就會失效. 要重新配發網址才可以運作.
 
    或者使用heroku: https://dashboard.heroku.com/apps/linebot-lisajao/deploy/heroku-git
 
